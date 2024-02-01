@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+        <!-- Customize your light theme here. -->
+        <style name="Base.Theme.ArtBook" parent="Theme.AppCompat.Light.DarkActionBar">
+            <!-- Temanıza özgü öğeleri buraya ekleyebilirsiniz -->
+            <item name="colorPrimary">@color/colorPrimary</item>
+            <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+            <item name="colorAccent">@color/colorAccent</item>
+        </style>
+
+
+
+    <style name="Theme.ArtBook" parent="Base.Theme.ArtBook" />
+</resources>
